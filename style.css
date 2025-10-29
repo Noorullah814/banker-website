@@ -5,17 +5,6 @@ body {
   
 }
 
-.div1 {
-  position: relative;
-  background: url("/Images/hero_2.jpg.webp") center/cover no-repeat;
-  height: 90vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-}
-
 .div1::before {
   content: "";
   position: absolute;
@@ -2768,5 +2757,6 @@ footer p i {
     font-size: 12px;
   }
 }
+
 
 
